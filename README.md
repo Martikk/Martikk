@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martikk&" alt="martikk" /></p>
 
-![Snake animation]https://github.com/Martikk/Martikk/blob/output/github-contribution-grid-snake-dark.svg
+![snake gif](https://github.com/Martikk/Martikk/blob/output/github-contribution-grid-snake-dark.svg)
