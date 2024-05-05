@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martikk" alt="martikk" /></a> </p>
 
-- 🔭 I’m currently working on [Coffee-Shop](https://github.com/Martikk/Coffee-Shop-Starter-Code)
+- 🔭 I’m currently working on [BrainFlix](https://github.com/Martikk/BrainFlix)
 
 - 🌱 I’m currently learning **Node.js React.js**
 
