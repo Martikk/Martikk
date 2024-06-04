@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [DreamyDates](https://github.com/Martikk/DreamyDates)
 
-- 🌱 I’m currently learning **Node.js React.js**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Martikk](https://github.com/Martikk)
 
