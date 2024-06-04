@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **javascript**
 
-- 📫 How to reach me **martik1989@gmail.com**
+- 📫 How to reach me **alex@martishyn.ca**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/martishyn/](https://www.linkedin.com/in/martishyn/)
 
