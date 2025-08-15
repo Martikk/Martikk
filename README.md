@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Martikk](https://github.com/Martikk)
+- 👨‍💻 All of my projects are available at [https://github.com/Martikk](https://martikk.github.io/Portfolio)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/martishyn/](https://www.linkedin.com/in/martishyn/)
 
