@@ -24,9 +24,9 @@ I've spent ten years running projects — first **web and mobile apps** at two d
 
 Since 2024 I build software myself: **React and TypeScript** on the front end, **Node.js, Express and SQL** behind it, and AI coding tools like **Claude Code** every day. I'm most interested in software for construction and the trades — the problems I already deal with every week.
 
-- 🏗️ **Now:** Project Manager, Mechanical — Allied Plumbing, Heating & Air Conditioning
-- 🧭 **Before:** PM at Fourmeta Agency and ANODA (40+ web & mobile projects)
-- 🔭 **Building:** tools for trades businesses with Next.js + AI
+- 🏗️ **Now:** Project Manager & Estimator, Mechanical — Allied Plumbing, Heating & Air Conditioning (8 institutional HVAC projects)
+- 🧭 **Before:** PM at Fourmeta and ANODA (40+ web & mobile projects) · BrainStation web development diploma
+- 🔭 **Building:** [Plenum](https://plenum-fsm.netlify.app/), field-service software for HVAC & plumbing contractors
 - 📫 **Reach me:** [alex@martishyn.ca](mailto:alex@martishyn.ca)
 
 ---
@@ -43,9 +43,10 @@ Since 2024 I build software myself: **React and TypeScript** on the front end, *
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**Dreamy Dates**](https://github.com/Martikk/DreamyDates) · [live](https://dreamydates.ca) | Booking platform for date experiences with its own API, Stripe payments and SendGrid email | React · Redux · Node.js · Express · Stripe |
-| [**InStock**](https://github.com/Martikk/warehouse-backend) · [demo](https://www.youtube.com/watch?v=_kAHgS-aRPc) | Warehouse & inventory management with a REST API and MySQL | React · Express · MySQL · Knex |
-| [**BrainFlix**](https://github.com/Martikk/BrainFlix) · [live](https://master.d3hz3i03c78cd3.amplifyapp.com/) | Video sharing app with uploads and comments | React · Vite · SCSS · Express |
+| [**Plenum**](https://github.com/Martikk/plenum) · [live demo](https://plenum-fsm.netlify.app/) | Field-service software for HVAC & plumbing contractors: dispatch, quotes, work orders, invoicing, customer portal | Next.js 15 · React 19 · TypeScript · Tailwind 4 |
+| [**alliedplumbing.ca**](https://github.com/Martikk/AlliedPlumbing) · [live](https://www.alliedplumbing.ca/) | Production website for a BC mechanical contractor: 42 prerendered routes, lead-capture pipeline | React 19 · TypeScript · Apps Script · AWS Amplify |
+| **Held** · [live](https://he1d.vercel.app/welcome) | Cycling training app: workouts from CP/FTP, ride import, planned-vs-actual power analysis | Next.js 16 · React 19 · PostgreSQL |
+| [**NCCG**](https://github.com/Martikk/nostra-cura) · [live](https://nccg.ca/) | Website for a construction-industry consultancy with serverless contact delivery | React 19 · Tailwind 4 · Netlify Functions |
 
 ---
 
