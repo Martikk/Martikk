@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://martikk.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0B0D12?style=for-the-badge&logo=googlechrome&logoColor=5EEAD4" alt="Portfolio" /></a>
-  <a href="https://martikk.github.io/Portfolio/Alex-Martishyn-Resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-0B0D12?style=for-the-badge&logo=adobeacrobatreader&logoColor=5EEAD4&labelColor=0B0D12&color=12151C" alt="Résumé PDF" /></a>
+  <a href="https://martikk.github.io/Portfolio/Alex-Martishyn-Technical-Project-Manager.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-0B0D12?style=for-the-badge&logo=adobeacrobatreader&logoColor=5EEAD4&labelColor=0B0D12&color=12151C" alt="Résumé PDF" /></a>
   <a href="https://www.linkedin.com/in/martishyn/"><img src="https://img.shields.io/badge/LinkedIn-0B0D12?style=for-the-badge&logo=linkedin&logoColor=5EEAD4" alt="LinkedIn" /></a>
   <a href="mailto:alex@martishyn.ca"><img src="https://img.shields.io/badge/alex%40martishyn.ca-0B0D12?style=for-the-badge&logo=maildotru&logoColor=5EEAD4" alt="Email" /></a>
 </p>
