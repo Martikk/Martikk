@@ -56,8 +56,12 @@ I'm a **full stack developer** who enjoys taking an idea from a Figma frame to a
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=martikk&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=0e75b6&icon_color=7c3aed&text_color=8b949e" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martikk&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=0e75b6&text_color=8b949e" alt="Top languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Martikk&theme=transparent" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Martikk&theme=transparent" alt="Top languages by commit" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Martikk&bg_color=00000000&color=8b949e&line=0e75b6&point=7c3aed&area=true&area_color=0e75b6&hide_border=true" alt="Contribution activity graph" />
 </p>
 
 <p align="center">
@@ -66,7 +70,7 @@ I'm a **full stack developer** who enjoys taking an idea from a Figma frame to a
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=martikk&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=Martikk&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
   </a>
 </p>
 
