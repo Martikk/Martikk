@@ -1,82 +1,60 @@
 <!-- ============================  HEADER  ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7c3aed&height=180&section=header&text=Alex%20Martishyn&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" alt="Alex Martishyn — Full Stack Developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D12,100:12151C&height=150&section=header&text=Alex%20Martishyn&fontSize=46&fontColor=E6E8EE&fontAlignY=42&desc=Project%20manager%20who%20builds%20software&descAlignY=70&descSize=17&descColor=5EEAD4" alt="Alex Martishyn — Project manager who builds software" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Martikk">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=0E75B6&center=true&vCenter=true&width=560&lines=I+build+full-stack+web+apps+end+to+end;React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+MySQL+%E2%80%A2+AWS;Currently+building+DreamyDates+%F0%9F%92%9C;Ask+me+anything+about+JavaScript" alt="Typing intro" />
+  <a href="https://martikk.github.io/Portfolio/">
+    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=18&duration=3400&pause=900&color=5EEAD4&center=true&vCenter=true&width=620&lines=10+years+running+web+and+construction+projects;8+years+on+the+tools+as+a+plumber+before+that;Now+building+software%3A+React+%E2%80%A2+Node.js+%E2%80%A2+AI;Interested+in+construction-tech" alt="Typing intro" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://martikk.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/martishyn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:alex@martishyn.ca"><img src="https://img.shields.io/badge/Email-alex%40martishyn.ca-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Discord-martik8113-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: martik8113" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=martikk&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <a href="https://martikk.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0B0D12?style=for-the-badge&logo=googlechrome&logoColor=5EEAD4" alt="Portfolio" /></a>
+  <a href="https://martikk.github.io/Portfolio/Alex-Martishyn-Resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-0B0D12?style=for-the-badge&logo=adobeacrobatreader&logoColor=5EEAD4&labelColor=0B0D12&color=12151C" alt="Résumé PDF" /></a>
+  <a href="https://www.linkedin.com/in/martishyn/"><img src="https://img.shields.io/badge/LinkedIn-0B0D12?style=for-the-badge&logo=linkedin&logoColor=5EEAD4" alt="LinkedIn" /></a>
+  <a href="mailto:alex@martishyn.ca"><img src="https://img.shields.io/badge/alex%40martishyn.ca-0B0D12?style=for-the-badge&logo=maildotru&logoColor=5EEAD4" alt="Email" /></a>
 </p>
 
 ---
 
-### 👋 About me
+### About
 
-I'm a **full stack developer** who enjoys taking an idea from a Figma frame to a deployed product — clean UI on the front, solid APIs and data on the back.
+I've spent ten years running projects — first **web and mobile apps** at two development agencies, now **mechanical construction** (HVAC & plumbing) for school districts, universities and public-sector owners in Vancouver. Before that I was a plumber for eight years.
 
-- 🔭 **Building:** [**DreamyDates**](https://github.com/Martikk/DreamyDates)
-- 🌱 **Leveling up:** deeper **Node.js** — architecture, performance, and testing
-- 📝 **Writing:** articles on [LinkedIn](https://www.linkedin.com/in/martishyn/)
-- 💬 **Ask me about:** JavaScript, React, and building full-stack apps
+Since 2024 I build software myself: **React and TypeScript** on the front end, **Node.js, Express and SQL** behind it, and AI coding tools like **Claude Code** every day. I'm most interested in software for construction and the trades — the problems I already deal with every week.
+
+- 🏗️ **Now:** Project Manager, Mechanical — Allied Plumbing, Heating & Air Conditioning
+- 🧭 **Before:** PM at Fourmeta Agency and ANODA (40+ web & mobile projects)
+- 🔭 **Building:** tools for trades businesses with Next.js + AI
 - 📫 **Reach me:** [alex@martishyn.ca](mailto:alex@martishyn.ca)
 
 ---
 
-### 🛠️ Tech stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="140"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,react,html,css,bootstrap&perline=10" alt="Frontend" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Backend & Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql&perline=10" alt="Backend and data" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Cloud & Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,linux,git,figma,ps&perline=10" alt="Cloud and tools" /></td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub stats
+### Stack
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Martikk&theme=transparent" alt="GitHub stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Martikk&theme=transparent" alt="Top languages by commit" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Martikk&bg_color=00000000&color=8b949e&line=0e75b6&point=7c3aed&area=true&area_color=0e75b6&hide_border=true" alt="Contribution activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=martikk&hide_border=true&theme=transparent&ring=0e75b6&fire=7c3aed&currStreakLabel=0e75b6&sideLabels=8b949e&dates=8b949e&stroke=30363d" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=Martikk&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,sass,nodejs,express,mysql,git,vercel,aws,figma&perline=13&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind, Sass, Node.js, Express, MySQL, Git, Vercel, AWS, Figma" />
 </p>
 
 ---
 
-### 🐍 Contribution snake
+### Selected projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**Dreamy Dates**](https://github.com/Martikk/DreamyDates) · [live](https://dreamydates.ca) | Booking platform for date experiences with its own API, Stripe payments and SendGrid email | React · Redux · Node.js · Express · Stripe |
+| [**InStock**](https://github.com/Martikk/warehouse-backend) · [demo](https://www.youtube.com/watch?v=_kAHgS-aRPc) | Warehouse & inventory management with a REST API and MySQL | React · Express · MySQL · Knex |
+| [**BrainFlix**](https://github.com/Martikk/BrainFlix) · [live](https://master.d3hz3i03c78cd3.amplifyapp.com/) | Video sharing app with uploads and comments | React · Vite · SCSS · Express |
+
+---
+
+### GitHub activity
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Martikk&theme=github_dark" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Martikk&theme=github_dark" alt="Top languages by commit" />
+</p>
 
 <p align="center">
   <picture>
@@ -84,9 +62,4 @@ I'm a **full stack developer** who enjoys taking an idea from a Figma frame to a
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Martikk/Martikk/output/github-contribution-grid-snake.svg" />
     <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Martikk/Martikk/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
-
-<!-- ============================  FOOTER  ============================ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0e75b6&height=110&section=footer" alt="" width="100%" />
 </p>
